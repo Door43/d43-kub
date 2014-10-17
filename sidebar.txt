@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kub:home|Door43 (kub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kub|d43-kub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kub/archive/master.zip|d43-kub.zip]]
+
+**Recent Changes**
+{{changes>ns = kub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kub|Ethnologue data]]
+
